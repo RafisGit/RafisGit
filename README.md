@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**RafisGit/RafisGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer • CSE Student
 
-Here are some ideas to get you started:
+I build clean, responsive web applications and enjoy turning ideas into real products.  
+Currently focused on modern frontend development and AI-powered projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ Tech
+- HTML, CSS, JavaScript (ES6+)
+- React, Next.js
+- Tailwind CSS
+- Node.js, Express
+- MongoDB
+- Git & GitHub
+
+---
+
+ Projects
+- **AI Powered Job Assistant** – Job matching, skill gap analysis, CV maker  
+- **CV Maker** – Responsive resume builder with templates  
+- **Frontend UI Projects** – Modern, animated web interfaces  
+
