@@ -7,7 +7,7 @@ Currently focused on modern frontend development and AI-powered projects.
 
 
  Tech
-- HTML, CSS, JavaScript (ES6+)
+- HTML, CSS, JavaScript 
 - React, Next.js
 - Tailwind CSS
 - Node.js, Express
