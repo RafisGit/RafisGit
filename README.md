@@ -2,7 +2,7 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><b>Hello , I</b></h1>
 <!--  -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Indie+Flower&pause=1000&color=5290F7&center=true&width=435&lines=am+Asif+Bhuiyan+Shawon;am+Studying+CSE+at+NSU;do+MERN+DEV;Like+to+Teach" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Indie+Flower&pause=1000&color=5290F7&center=true&width=435&lines=am+MD.+Rafi+Hoque;am+Studying+CSE+at+NSU;do+MERN+DEV;Like+to+Teach" alt="Typing SVG" /></a>
 </p>
 
 
