@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-Frontend Developer • CSE Student
+Full-Stack Developer • CSE Student
 
 I build clean, responsive web applications and enjoy turning ideas into real products.  
-Currently focused on modern frontend development and AI-powered projects.
+Currently focused on modern Full-Stack development and AI-powered projects.
 
 
  Tech
